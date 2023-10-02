@@ -14,7 +14,7 @@ Feel free to find me on twitch using the link down below, I mostly stream on Sun
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt="Twitter" />
 </a>
 
-<a href="https://github.com/helvikivinen" target="_blank">
+<a href="https://twitch.tv/helvikivinen" target="_blank">
   <img src="https://img.shields.io/badge/twitch-%239146ff.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
 </a>
 
