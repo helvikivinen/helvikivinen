@@ -1,4 +1,4 @@
-### I'm Helvi, your local library vtuber!
+### I'm Helvi, your local library study vtuber!
 
 Hiii, I'm Helvi Kivinen! I'm a UI/UX lead with plenty of years of experiencing trying my best to make the internet as best as it can be. Online, I'm a study vtuber! I want to learn as much as I can, and help teach the things I learn to others (and learn a thing or two from them in return)!
 
